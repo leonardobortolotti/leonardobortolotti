@@ -19,7 +19,7 @@
 ## About me
 - 💻 I'm a Senior Full Stack Developer. 
 - 👨‍💻 Currently working remotely for [Yampi](https://yampi.com.br/).
-- 🌐 I speak Portuguese, English.
+- 🌐 I speak Portuguese and English.
 - 🔭 Working now primaly with PHP, JavaScript and MySQL
 
 ## Experience with
